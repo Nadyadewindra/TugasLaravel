@@ -31,9 +31,9 @@
           </div>
           <div>
             <label"><strong>Jenis Kelamin :</strong></label>
-            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Laki-laki'>Laki-laki</p>
+            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Laki - Laki'>Laki - Laki</p>
             <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Perempuan'>Perempuan</p>
-            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Tidak ingin Memberi Tahu'>Yang Lain</p>
+            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Yang Lain'>Yang Lain</p>
           </div>
           <div class="form-group mb-3">
             <label><strong>Alamat :</strong></label>

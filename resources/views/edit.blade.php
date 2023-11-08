@@ -32,9 +32,9 @@
           </div>
           <div>
             <label"><strong>Jenis Kelamin :</strong></label>
-            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Laki-laki' @if ($mahasiswa->jeniskelamin=='Laki-Laki'){{ "checked" }} @endif >Laki-laki</p>
+            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Laki - Laki' @if ($mahasiswa->jeniskelamin=='Laki - Laki'){{ "checked" }} @endif >Laki - Laki</p>
             <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Perempuan'@if ($mahasiswa->jeniskelamin=='Perempuan'){{ "checked" }} @endif >Perempuan</p>
-            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Tidak ingin Memberi Tahu'@if ($mahasiswa->jeniskelamin=='Tidak ingin Memberi Tahu'){{ "checked" }} @endif>Yang Lain</p>
+            <p><input class="me-1" type='radio' name='jeniskelamin' id="jeniskelamin" value='Yang Lain'@if ($mahasiswa->jeniskelamin=='Yang Lain'){{ "checked" }} @endif>Yang Lain</p>
           </div>
           <div class="form-group mb-3">
             <label><strong>Alamat :</strong></label>
