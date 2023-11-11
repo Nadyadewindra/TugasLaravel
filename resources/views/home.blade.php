@@ -58,7 +58,7 @@
     <div class="hero-container bg-image" style="background-image: url(/img/dya-bg.jpg);">
       <h1 class="title-dark">Ni Made Nadya Dewindra Wirata</h1>
       <h1>2205551021</h1>
-      <p class="mb-0"><a href="#about" class="btn btn-warning py-3 px-5">About me</a></p>
+      <p class="mb-0"><a href="#about" class="btn btn-info py-3 px-5">About me</a></p>
     </div>
   </section><!-- End Hero -->
 
